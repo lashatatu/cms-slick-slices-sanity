@@ -9,6 +9,7 @@ build/Release
 /.next/
 /out/
 /static
+/sample-data
 # production
 /build
 
